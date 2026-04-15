@@ -3,13 +3,13 @@
 <h1>Hi, I am Abhi aka Haru</h1>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Fullstack+dev;Vibe+Coder;Prompt+Expert;Gamer;Creator;Guitarist" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=24&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Fullstack+dev;Vibe+Coder;Prompt+Expert;Gamer;Creator;Guitarist" />
-  <img alt="Animated Roles" src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=24&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Fullstack+dev;Vibe+Coder;Prompt+Expert;Gamer;Creator;Guitarist" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Fullstack+AI+Engineer;100x+Builder;Agentic+Workflow+Specialist;Founder+@+Delusive" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=24&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Fullstack+AI+Engineer;100x+Builder;Agentic+Workflow+Specialist;Founder+@+Delusive" />
+  <img alt="Animated Roles" src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=24&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Fullstack+AI+Engineer;100x+Builder;Agentic+Workflow+Specialist;Founder+@+Delusive" />
 </picture>
 
 <br/>
-<code>Building Ideas...</code>
+<code>Shipping AI Agents at Warp Speed...</code>
 <br/><br/>
 
 </div>
@@ -22,9 +22,9 @@
   <tr>
     <td width="60%" valign="top">
       <br>
-      I am a 3rd-year B.Tech CSE (AI/ML) student passionate about translating raw thoughts into scalable realities. <br><br>
-      I focus on <b>building ideas</b> from the ground up—whether that means engineering robust backends, designing vintage-inspired digital interfaces, organizing esports tournaments, experimenting cenimatic gaming videos or experimenting with prompt architecture. <br><br>
-      I bridge the gap between creative vision and technical execution.
+      I am a 3rd-year B.Tech CSE (AI/ML) student and a <b>Fullstack AI Engineer</b> specializing in agentic workflows. <br><br>
+      I focus on building autonomous systems—moving beyond simple prompts to engineering <b>production-ready AI agents</b> with full payment integrations and analytical backends. <br><br>
+      Whether it's building for startups like <b>LoversAI</b> or automating the Indian retail sector through <b>Delusive</b>, I bridge the gap between LLM capabilities and real-world business ROI.
     </td>
     <td width="40%" align="center" valign="top">
 <pre>
@@ -48,25 +48,38 @@
 
 ---
 
-### ■ Tech Stack
+### ■ Experience & Startups
+
+* **Founder @ Delusive** | *AI Automations for Indian Retailers*
+    * Building autonomous WhatsApp AI bots for clinics, salons, and restaurants.
+    * Engineered a full analytical dashboard to track AI performance and customer conversion.
+* **AI Engineer @ LoversAI** * Shipped **6 production-ready projects** in 30 days using Generative AI.
+    * Implemented complex agentic workflows and full payment gateway integrations.
+
+---
+
+### ■ Tech Stack & AI Tooling
 
 <div align="center">
   
-  <p><b>◆ Languages & Core</b></p>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/AI_/_ML-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="AI/ML" />
+  <p><b>◆ AI & Agentic Workflow</b></p>
+  <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Emergent-000000?style=for-the-badge&logo=ai&logoColor=white" alt="Emergent" />
+  <img src="https://img.shields.io/badge/Lovable-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="Lovable" />
+  <img src="https://img.shields.io/badge/Gemini_1.5_Pro-000000?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
 
   <br><br>
 
-  <p><b>◆ Front-end & Frameworks</b></p>
+  <p><b>◆ Fullstack Development</b></p>
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Nextjs" />
+  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   
   <br><br>
 
-  <p><b>◆ Tools & Design</b></p>
+  <p><b>◆ Core & Design</b></p>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   
@@ -76,13 +89,13 @@
 
 ---
 
-### ■ Projects
+### ■ Key Projects
 
 | `[DIR]` | `[PROJECT_NAME]` | `[DESCRIPTION]` |
 | :--- | :--- | :--- |
-| `>` | **Tellya** | Developing a university social app featuring a custom vintage/retro digital interface. |
-| `>` | **Delusive** | A niche marketing agency catering to cafes, restaurants, and local brands. |
-| `>` | **GF-Complaint-Portal** | Web application built utilizing React and Tailwind CSS frameworks. |
+| `>` | **Delusive Bot** | WhatsApp AI agent for service industries with integrated lead tracking and analytics. |
+| `>` | **LoversAI Suite** | Series of 6 Gen-AI tools featuring automated content generation and Stripe/Razorpay payments. |
+| `>` | **Tellya** | University social app with a vintage/retro digital interface design. |
 
 <br/>
 
