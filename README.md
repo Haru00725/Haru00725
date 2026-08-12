@@ -22,7 +22,7 @@
   <tr>
     <td width="60%" valign="top">
       <br>
-      I am a 3rd-year B.Tech CSE (AI/ML) student and a <b>Fullstack AI Engineer</b> specializing in agentic workflows. <br><br>
+      I am a 4th-year B.Tech CSE (AI/ML) student and a <b>Fullstack AI Engineer</b> specializing in agentic workflows. <br><br>
       I focus on building autonomous systems—moving beyond simple prompts to engineering <b>production-ready AI agents</b> with full payment integrations and analytical backends. <br><br>
       Whether it's building for startups like <b>LoversAI</b> or automating the Indian retail sector through <b>Delusive</b>, I bridge the gap between LLM capabilities and real-world business ROI.
     </td>
