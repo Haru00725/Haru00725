@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Fullstack+AI+Engineer;100x+Builder;Agentic+Workflow+Specialist;Founder+@+Delusive" alt="Typing roles"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Fullstack+AI+Engineer;100x+Builder;Agentic+Workflow+Specialist" alt="Typing roles"/></a>
 
 </div>
 
@@ -94,12 +94,12 @@ From startups like **Lovers AI** to automating Indian retail through **Delusive*
 <td width="110" align="center" valign="top"><img src="https://img.shields.io/badge/2026-6d28d9?style=for-the-badge"/></td>
 <td valign="top">
 
-**Founder @ Delusive** · *AI automations for Indian retailers*<br/>
+**AI Engineer @ Delusive** · *AI automations for Indian retailers*<br/>
 `Present`
 
 - Building autonomous WhatsApp AI bots for clinics, salons and restaurants
 - Engineered an analytical dashboard to track AI performance and customer conversion
-- Shipping own products: [HireLens](https://hirelens.delusive.studio), Vopli, Delusive GEO
+- Building and shipping: [HireLens](https://hirelens.delusive.studio), Vopli, Delusive GEO
 
 </td>
 </tr>
