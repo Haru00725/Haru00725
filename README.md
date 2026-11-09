@@ -192,12 +192,12 @@ University social app with a vintage, retro digital interface.<br/><br/>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Haru00725&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=a78bfa&icon_color=8b5cf6&text_color=e5e7eb&ring_color=8b5cf6&include_all_commits=true"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Haru00725&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=a78bfa&icon_color=8b5cf6&text_color=e5e7eb&ring_color=8b5cf6&include_all_commits=true"/>
 <img height="170" src="https://streak-stats.demolab.com/?user=Haru00725&hide_border=true&background=0a0a0a&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&currStreakNum=ffffff&sideNums=ffffff&sideLabels=a78bfa&dates=9ca3af"/>
 
 <br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Haru00725&bg_color=0a0a0a&color=a78bfa&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6&hide_border=true"/>
+<img width="98%" src="https://github-act-graph.rodriaum.com/graph?username=Haru00725&bg_color=0a0a0a&color=a78bfa&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6&hide_border=true"/>
 
 </div>
 
