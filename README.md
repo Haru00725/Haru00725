@@ -45,40 +45,40 @@ From startups like **Lovers AI** to automating Indian retail through **Delusive*
 
 ## ◆ Skills & Technologies
 
-<table width="100%">
+<table>
 <tr>
 <td valign="top" width="33%">
 
 **🟣 Frontend & Mobile**<br/><br/>
-<img src="https://img.shields.io/badge/React-1a1033?style=flat-square&logo=react&logoColor=a78bfa&labelColor=1a1033&color=8b5cf6"/><br/>
-<img src="https://img.shields.io/badge/Next.js-1a1033?style=flat-square&logo=nextdotjs&logoColor=a78bfa&color=8b5cf6"/><br/>
-<img src="https://img.shields.io/badge/TypeScript-1a1033?style=flat-square&logo=typescript&logoColor=a78bfa&color=8b5cf6"/><br/>
-<img src="https://img.shields.io/badge/Tailwind-1a1033?style=flat-square&logo=tailwindcss&logoColor=a78bfa&color=8b5cf6"/><br/>
-<img src="https://img.shields.io/badge/Tauri-1a1033?style=flat-square&logo=tauri&logoColor=a78bfa&color=8b5cf6"/><br/>
-<img src="https://img.shields.io/badge/Android-1a1033?style=flat-square&logo=androidstudio&logoColor=a78bfa&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/React-1a1033?style=flat-square&logo=react&logoColor=a78bfa&labelColor=1a1033&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/Next.js-1a1033?style=flat-square&logo=nextdotjs&logoColor=a78bfa&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/TypeScript-1a1033?style=flat-square&logo=typescript&logoColor=a78bfa&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/Tailwind-1a1033?style=flat-square&logo=tailwindcss&logoColor=a78bfa&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/Tauri-1a1033?style=flat-square&logo=tauri&logoColor=a78bfa&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/Android_Studio-1a1033?style=flat-square&logo=androidstudio&logoColor=a78bfa&color=8b5cf6"/>
 
 </td>
 <td valign="top" width="33%">
 
 **🟣 Backend & Data**<br/><br/>
-<img src="https://img.shields.io/badge/Python-1a1033?style=flat-square&logo=python&logoColor=a78bfa&color=8b5cf6"/><br/>
-<img src="https://img.shields.io/badge/FastAPI-1a1033?style=flat-square&logo=fastapi&logoColor=a78bfa&color=8b5cf6"/><br/>
-<img src="https://img.shields.io/badge/Node.js-1a1033?style=flat-square&logo=nodedotjs&logoColor=a78bfa&color=8b5cf6"/><br/>
-<img src="https://img.shields.io/badge/Supabase-1a1033?style=flat-square&logo=supabase&logoColor=a78bfa&color=8b5cf6"/><br/>
-<img src="https://img.shields.io/badge/Firebase-1a1033?style=flat-square&logo=firebase&logoColor=a78bfa&color=8b5cf6"/><br/>
-<img src="https://img.shields.io/badge/GCP-1a1033?style=flat-square&logo=googlecloud&logoColor=a78bfa&color=8b5cf6"/><br/>
+<img src="https://img.shields.io/badge/Python-1a1033?style=flat-square&logo=python&logoColor=a78bfa&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/FastAPI-1a1033?style=flat-square&logo=fastapi&logoColor=a78bfa&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/Node.js-1a1033?style=flat-square&logo=nodedotjs&logoColor=a78bfa&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/Supabase-1a1033?style=flat-square&logo=supabase&logoColor=a78bfa&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/Firebase-1a1033?style=flat-square&logo=firebase&logoColor=a78bfa&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/Google_Cloud-1a1033?style=flat-square&logo=googlecloud&logoColor=a78bfa&color=8b5cf6"/>
 <img src="https://img.shields.io/badge/Railway-1a1033?style=flat-square&logo=railway&logoColor=a78bfa&color=8b5cf6"/>
 
 </td>
 <td valign="top" width="33%">
 
 **🟣 AI & Dev Tools**<br/><br/>
-<img src="https://img.shields.io/badge/Claude-1a1033?style=flat-square&logo=anthropic&logoColor=a78bfa&color=8b5cf6"/><br/>
-<img src="https://img.shields.io/badge/Gemini-1a1033?style=flat-square&logo=googlegemini&logoColor=a78bfa&color=8b5cf6"/><br/>
-<img src="https://img.shields.io/badge/Copilot-1a1033?style=flat-square&logo=githubcopilot&logoColor=a78bfa&color=8b5cf6"/><br/>
-<img src="https://img.shields.io/badge/Cursor-1a1033?style=flat-square&logo=cursor&logoColor=a78bfa&color=8b5cf6"/><br/>
-<img src="https://img.shields.io/badge/Postman-1a1033?style=flat-square&logo=postman&logoColor=a78bfa&color=8b5cf6"/><br/>
-<img src="https://img.shields.io/badge/Git-1a1033?style=flat-square&logo=git&logoColor=a78bfa&color=8b5cf6"/><br/>
+<img src="https://img.shields.io/badge/Claude-1a1033?style=flat-square&logo=anthropic&logoColor=a78bfa&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/Gemini-1a1033?style=flat-square&logo=googlegemini&logoColor=a78bfa&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/Copilot-1a1033?style=flat-square&logo=githubcopilot&logoColor=a78bfa&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/Cursor-1a1033?style=flat-square&logo=cursor&logoColor=a78bfa&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/Postman-1a1033?style=flat-square&logo=postman&logoColor=a78bfa&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/Git-1a1033?style=flat-square&logo=git&logoColor=a78bfa&color=8b5cf6"/>
 <img src="https://img.shields.io/badge/Figma-1a1033?style=flat-square&logo=figma&logoColor=a78bfa&color=8b5cf6"/>
 
 </td>
